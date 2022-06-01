@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Sergey!
-- 👀 I’m interested in gamedev, unreal engine, c++, low-level stuff, oop thinking 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in gamedev, unreal engine, c++, java, low-level stuff, oop thinking 
 - 📫 How to reach me: serhii.poklonskyi@outlook.de
 
 <!---
